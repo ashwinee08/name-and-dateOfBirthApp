@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#495E5E</color>
+    <color name="colorPrimaryDark">#167E97</color>
+    <color name="colorAccent">#6BE2F1</color>
+    <color name="backgroundForForm">#BFF7F7</color>
+    <color name="colorForChoose">#C9FFF1</color>
+
+    <color name="colorPrimaryDarkA">
+        #6a6787
+    </color>
+    <color name="colorPrimaryA">
+        #7e81a1
+    </color>
+    <color name="basicBackground">
+        #ffffff
+    </color>
+    <color name="colorPrimaryB">
+        #fbd08d
+    </color>
+    <color name="colorPrimaryDarkB">#DFA85B</color>
+
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SQLiteDatabasePractice</string>
+    <string name="enter_your_name">Enter_your_name</string>
+    <string name="dob">DOB</string>
+    <string name="submit">submit</string>
+    <string name="tag__all_data_stored">All data stored are here : </string>
+    <string name="delete">delete</string>
+</resources>
